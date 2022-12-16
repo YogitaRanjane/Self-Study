@@ -8,10 +8,6 @@ public class constructorStudy
 		constructorStudy cs=new constructorStudy(20);
 
 	}
-	
-	
-	
-	
 	public constructorStudy(int num)
 	{
 		a=num;
